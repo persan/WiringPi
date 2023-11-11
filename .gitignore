@@ -5,3 +5,11 @@ lib*.so.*
 debian-template/wiringPi
 debian-template/wiringpi-*.deb
 gpio/gpio
+*.stderr
+*.stdout
+*.ali
+*.a
+messages.txt
+gpsauto.cgpr
+*.lexch
+*-loc.xml
